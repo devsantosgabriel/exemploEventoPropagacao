@@ -1,4 +1,4 @@
-# Evento de Propagação - Exemplo
+# Evento de Propagação e Evento de Captura - Exemplo
 
 ### O que é evento de propagação ?
 Evento de propagação determina a ordem em que os elementos recebem os eventos. Por padrão sempre utilizamos o evento de propagação ascendente o qual ocorre do elemento pai para o elemento Document, porém existe outro tipo de evento de propagação que é conhecido como descendente  ou evento de captura o qual ocorre do elemento filho para o elemento Document. 
